@@ -11,7 +11,7 @@ spec:
   retryInterval: 2m0s
   sourceRef:
     kind: GitRepository
-    name: demo-microservices
+    name: flux-system
   targetNamespace: demo
   timeout: 3m0s
   wait: true
